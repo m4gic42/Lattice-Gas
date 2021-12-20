@@ -1,5 +1,5 @@
 # Reticular-Gas
-Simulation of a reticular gas using diifferent models and conditions.
+Simulation of a reticular gas using diifferent models and conditions in JAVA.
 
 
 This repository contains three scripts that display different visualisations based on the same traditional simulation of a reticular gas:
