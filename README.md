@@ -9,8 +9,7 @@ This repository contains three scripts that display different visualisations bas
 -In the second each particle is represented by a single pixel, making the rendering of small particles much faster;
 -The third is an extension of the first script to 3D rendering.
 
-
-Of the first two of the scripts exist two versions: one with Fixed Boundaries Conditions (FBC) and the other one with Periodic Boundaries Conditions (PBC).
+There are two versions of the first two scripts: one with Fixed Boundaries Conditions (FBC) and the other one with Periodic Boundaries Conditions (PBC).
 
 Hope it could be useful and comment for any question or suggestion.
 
