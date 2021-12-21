@@ -1,4 +1,5 @@
-#Reticular-Gas
+Reticular-Gas
+
 Simulation of a lattice(reticular) gas using diifferent models and conditions in JAVA(Programming).
 
 
