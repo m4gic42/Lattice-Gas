@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <headerType>gui</headerType>
+  <dontWrapJar>true</dontWrapJar>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <outfile>/home/magic/sketchbook/reticular_gas_point_like_FBC/application.windows32/reticular_gas_point_like_FBC.exe</outfile>
+  <icon>/app/share/processing/modes/java/application/sketch.ico</icon>
+  <classPath>
+    <mainClass>reticular_gas_point_like_FBC</mainClass>
+    <cp>lib/reticular_gas_point_like_FBC.jar</cp>
+    <cp>lib/core.jar</cp>
+    <cp>lib/jogl-all.jar</cp>
+    <cp>lib/gluegen-rt.jar</cp>
+    <cp>lib/jogl-all-natives-windows-i586.jar</cp>
+    <cp>lib/gluegen-rt-natives-windows-i586.jar</cp>
+  </classPath>
+  <jre>
+    <minVersion>1.8.0_74</minVersion>
+    <opt>-Djna.nosys=true</opt>
+    <opt>-Djava.library.path="%EXEDIR%\lib"</opt>
+  </jre>
+</launch4jConfig>
