@@ -9,6 +9,6 @@ This repository contains three scripts that display different visualisations bas
 -The third is an extension of the first script to 3D rendering.
 
 
-For each one of the scripts exist two versions: one with Fixed Boundaries Conditions (FBC) and the other one with Periodic Boundaries Conditions (PBC).
+Of the first two of the scripts exist two versions: one with Fixed Boundaries Conditions (FBC) and the other one with Periodic Boundaries Conditions (PBC).
 
 Hope it could be useful and comment for any question or suggestion.
