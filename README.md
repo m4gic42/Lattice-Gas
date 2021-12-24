@@ -11,8 +11,7 @@ This repository contains three scripts that display different visualisations bas
 
 There are two versions of the first two scripts: one with Fixed Boundaries Conditions (FBC) and the other one with Periodic Boundaries Conditions (PBC).
 
-To use executable files in Linux is necessary to changhe file permission to the executable itself and to the "java" with path "\java\bin\java" using the command "chmod +x file". 
-
+To use executable files in Linux is necessary to changhe file permission to the executable itself and to the "java" with path "\java\bin\java" using the command "chmod +x file". The source codes are in "/source" directory.
 
 Hope it could be useful and comment for any question or suggestion.
 
