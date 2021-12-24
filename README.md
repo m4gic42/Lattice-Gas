@@ -1,6 +1,6 @@
 # Lattice Gas
 
-Simulation of a lattice(reticular) gas using diifferent models and conditions in JAVA(Programming).
+Simulation of a lattice(reticular) gas using different models and conditions in JAVA(Programming).
 
 
 This repository contains three scripts that display different visualisations based on the same traditional simulation of a reticular gas:
